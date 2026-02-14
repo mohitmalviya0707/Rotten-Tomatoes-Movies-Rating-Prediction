@@ -1,1 +1,9 @@
+I started by understanding the problem as a multi-class classification task. Since reviews were at the critic level, I aggregated them to the movie level. I removed leakage-related columns and engineered structured as well as NLP-based features using TF-IDF. I trained multiple models and found that combining structured and text features significantly improved performance.
+🎯 Why This Logic Strong Hai?
+Because:
+Data understanding clear tha
+Leakage avoid kiya
+Feature engineering kiya
+Multiple models compare kiye
+Output properly interpret kiya
 
